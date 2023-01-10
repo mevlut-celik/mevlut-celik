@@ -13,7 +13,7 @@
 stats](https://github-readme-stats.vercel.app/api?username=mevlut-celik&theme=dark)](https://github.com/anuraghazra/github-readme-stats)
 
 <br/>
-My LinkedIn Profile: <a title="LinkedIn" href="https://www.linkedin.com/in/mevl%C3%BCt-%C3%A7elik-a2050b14b/" target="_blank">Mevlüt Çelik</a><br/>
+My LinkedIn Profile: <a title="LinkedIn" href="https://www.linkedin.com/in/dmevlutcelik/" target="_blank">Mevlüt Çelik</a><br/>
 <br/>
 My e-mail address: <a title="e-mail" href="mailto:dmevlutcelik@gmail.com" target="_blank">dmevlutcelik@gmail.com</a><br/>
 
