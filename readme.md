@@ -19,4 +19,4 @@ My e-mail address: <a title="e-mail" href="mailto:dmevlutcelik@gmail.com" target
 
 <br/>
 
-![Snake animation](https://github.com/mevlut-celik/mevlut-celik/blob/output/github-contribution-grid-snake.svg)
+![Snake animation](https://github.com/mevlut-celik/mevlut-celik/blob/main/github-user-contribution.svg)
