@@ -16,10 +16,14 @@
 
 I build **web platforms, dashboards and mobile applications**, and run the operational processes that keep them working in production. Before that I spent two years in the [ANNIE](https://annie.fnal.gov/) collaboration at Fermilab, building the research group's web tools.
 
-- **Operations Specialist** · FRESHDATA <sub>2025 – now</sub>
-- **Research Intern, Web Development** · METU <sub>2025</sub>
-- **Web Developer & Undergraduate Researcher** · ENRG / Fermilab <sub>2021 – 2023</sub>
-- **B.Sc.** · Middle East Technical University <sub>2021 – 2026</sub>
+### Experience & education
+
+| | Role | Period |
+| :-- | :-- | :-- |
+| <img alt="FRESHDATA" src="https://raw.githubusercontent.com/mevlut-celik/mevlut-celik/main/assets/orgs/freshdata.svg" width="38"> | **Operations Specialist**<br>FRESHDATA | 2025 – now |
+| <img alt="METU" src="https://raw.githubusercontent.com/mevlut-celik/mevlut-celik/main/assets/orgs/metu.svg" width="38"> | **Research Intern, Web Development**<br>METU | 2025 |
+| <img alt="ENRG / Fermilab" src="https://raw.githubusercontent.com/mevlut-celik/mevlut-celik/main/assets/orgs/enrg-fermilab.svg" width="38"> | **Web Developer & Undergraduate Researcher**<br>ENRG / Fermilab | 2021 – 2023 |
+| <img alt="METU" src="https://raw.githubusercontent.com/mevlut-celik/mevlut-celik/main/assets/orgs/metu.svg" width="38"> | **B.Sc.**<br>Middle East Technical University | 2021 – 2026 |
 
 ### Selected work
 
