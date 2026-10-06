@@ -16,13 +16,14 @@
 
 I build **web platforms, dashboards and mobile applications**, and run the operational processes that keep them working in production. Before that I spent two years in the [ANNIE](https://annie.fnal.gov/) collaboration at Fermilab, building the research group's web tools.
 
-- **Now** · Operations Specialist at FRESHDATA <sub>Aug 2025 – now</sub>
-- **Before** · Research Intern, Web Development at METU <sub>2025</sub> · Web Developer & Undergraduate Researcher at ENRG / Fermilab <sub>2021 – 2023</sub>
-- **Studied** · B.Sc., Middle East Technical University <sub>2021 – 2026</sub>
+- **Operations Specialist** · FRESHDATA <sub>2025 – now</sub>
+- **Research Intern, Web Development** · METU <sub>2025</sub>
+- **Web Developer & Undergraduate Researcher** · ENRG / Fermilab <sub>2021 – 2023</sub>
+- **B.Sc.** · Middle East Technical University <sub>2021 – 2026</sub>
 
 ### Selected work
 
-| Year | Project | |
+| Year | Project | Description |
 | :-- | :-- | :-- |
 | 2026 | [**ODTÜ Mescid**](https://mevlut-celik.github.io/mescid/) | Android app for the METU campus: prayer times, qibla, campus map, Quran reader and notifications |
 | 2026 | [**Parlar Kariyer**](https://mevlut-celik.github.io/parlar-kariyer/) | Recruitment page with a validated application form, CV upload and a PHP backend that emails each application |
@@ -36,25 +37,23 @@ I build **web platforms, dashboards and mobile applications**, and run the opera
 ### Stack
 
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://skillicons.dev/icons?i=js,react,html,css,py,cpp,linux,apple,windows,git&theme=dark">
-  <source media="(prefers-color-scheme: light)" srcset="https://skillicons.dev/icons?i=js,react,html,css,py,cpp,linux,apple,windows,git&theme=light">
-  <img alt="JavaScript, React, HTML, CSS, Python, C++, Linux, macOS, Windows, Git" src="https://skillicons.dev/icons?i=js,react,html,css,py,cpp,linux,apple,windows,git&theme=light" height="44">
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/mevlut-celik/mevlut-celik/main/assets/stack-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/mevlut-celik/mevlut-celik/main/assets/stack-light.svg">
+  <img alt="JavaScript, React, HTML, CSS, Python, NumPy, C++, ROOT, machine learning, Linux, macOS, Windows, cPanel, Plesk, Git" src="https://raw.githubusercontent.com/mevlut-celik/mevlut-celik/main/assets/stack-light.svg" width="498">
 </picture>
-
-<sub>Also NumPy, ROOT, machine learning, cPanel and Plesk.</sub>
 
 ### Activity
 
 <p>
   <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api?username=mevlut-celik&show_icons=true&include_all_commits=true&card_width=495&border_radius=10&bg_color=0f0f10&title_color=ececec&text_color=8b8b90&icon_color=ececec&ring_color=ececec&border_color=242427">
-    <source media="(prefers-color-scheme: light)" srcset="https://github-readme-stats.vercel.app/api?username=mevlut-celik&show_icons=true&include_all_commits=true&card_width=495&border_radius=10&bg_color=ffffff&title_color=0f0f10&text_color=6b6b70&icon_color=0f0f10&ring_color=0f0f10&border_color=e4e4e7">
-    <img alt="GitHub stats" src="https://github-readme-stats.vercel.app/api?username=mevlut-celik&show_icons=true&include_all_commits=true&card_width=495&border_radius=10&bg_color=ffffff&title_color=0f0f10&text_color=6b6b70&icon_color=0f0f10&ring_color=0f0f10&border_color=e4e4e7" width="49%">
+    <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api?username=mevlut-celik&show_icons=true&include_all_commits=true&card_width=495&disable_animations=true&custom_title=GitHub%20stats&border_radius=10&bg_color=0f0f10&title_color=ececec&text_color=8b8b90&icon_color=ececec&ring_color=ececec&border_color=242427">
+    <source media="(prefers-color-scheme: light)" srcset="https://github-readme-stats.vercel.app/api?username=mevlut-celik&show_icons=true&include_all_commits=true&card_width=495&disable_animations=true&custom_title=GitHub%20stats&border_radius=10&bg_color=ffffff&title_color=0f0f10&text_color=6b6b70&icon_color=0f0f10&ring_color=0f0f10&border_color=e4e4e7">
+    <img alt="GitHub stats" src="https://github-readme-stats.vercel.app/api?username=mevlut-celik&show_icons=true&include_all_commits=true&card_width=495&disable_animations=true&custom_title=GitHub%20stats&border_radius=10&bg_color=ffffff&title_color=0f0f10&text_color=6b6b70&icon_color=0f0f10&ring_color=0f0f10&border_color=e4e4e7" width="49%">
   </picture>
   <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://streak-stats.demolab.com/?user=mevlut-celik&border_radius=10&background=0f0f10&border=242427&stroke=242427&ring=ececec&fire=ececec&currStreakNum=ececec&sideNums=ececec&currStreakLabel=ececec&sideLabels=8b8b90&dates=8b8b90">
-    <source media="(prefers-color-scheme: light)" srcset="https://streak-stats.demolab.com/?user=mevlut-celik&border_radius=10&background=ffffff&border=e4e4e7&stroke=e4e4e7&ring=0f0f10&fire=0f0f10&currStreakNum=0f0f10&sideNums=0f0f10&currStreakLabel=0f0f10&sideLabels=6b6b70&dates=6b6b70">
-    <img alt="GitHub streak" src="https://streak-stats.demolab.com/?user=mevlut-celik&border_radius=10&background=ffffff&border=e4e4e7&stroke=e4e4e7&ring=0f0f10&fire=0f0f10&currStreakNum=0f0f10&sideNums=0f0f10&currStreakLabel=0f0f10&sideLabels=6b6b70&dates=6b6b70" width="49%">
+    <source media="(prefers-color-scheme: dark)" srcset="https://streak-stats.demolab.com/?user=mevlut-celik&disable_animations=true&border_radius=10&background=0f0f10&border=242427&stroke=242427&ring=ececec&fire=ececec&currStreakNum=ececec&sideNums=ececec&currStreakLabel=ececec&sideLabels=8b8b90&dates=8b8b90">
+    <source media="(prefers-color-scheme: light)" srcset="https://streak-stats.demolab.com/?user=mevlut-celik&disable_animations=true&border_radius=10&background=ffffff&border=e4e4e7&stroke=e4e4e7&ring=0f0f10&fire=0f0f10&currStreakNum=0f0f10&sideNums=0f0f10&currStreakLabel=0f0f10&sideLabels=6b6b70&dates=6b6b70">
+    <img alt="GitHub streak" src="https://streak-stats.demolab.com/?user=mevlut-celik&disable_animations=true&border_radius=10&background=ffffff&border=e4e4e7&stroke=e4e4e7&ring=0f0f10&fire=0f0f10&currStreakNum=0f0f10&sideNums=0f0f10&currStreakLabel=0f0f10&sideLabels=6b6b70&dates=6b6b70" width="49%">
   </picture>
 </p>
 
@@ -63,7 +62,3 @@ I build **web platforms, dashboards and mobile applications**, and run the opera
   <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/mevlut-celik/mevlut-celik/output/github-snake.svg">
   <img alt="Contribution graph eaten by a snake" src="https://raw.githubusercontent.com/mevlut-celik/mevlut-celik/output/github-snake.svg" width="100%">
 </picture>
-
-<p align="right">
-  <img alt="Profile views" src="https://komarev.com/ghpvc/?username=mevlut-celik&style=flat-square&color=18181b&label=profile%20views">
-</p>
